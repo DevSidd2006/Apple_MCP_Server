@@ -1,0 +1,11 @@
+{
+    "apple_pay": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\siddh\\Desktop\\apple_mcp_server\\apple_pay", //path/to/your/apple_pay_mcp_server
+        "run",
+        "apple_pay.py"
+      ]
+    }
+}
